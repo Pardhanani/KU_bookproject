@@ -1,3 +1,5 @@
+# A conceptual introduction to neural nets and statistical modeling
+
 The materials in this repository are essentially a collection of lecture notes 
 introducing certain topics of interest in statistical modeling, data science, and 
 machine learning.  Our target audience is intellectually curious students and IT 
