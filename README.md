@@ -8,3 +8,6 @@ so that the materials will be accessible to anyone with a math background
 similar to that of an undergraduate in a STEM discipline.  Although our central 
 goal is to provide conceptual understanding, we have strived to do this through 
 a heavily applications-centric perspective.
+
+<HR>
+<A HREF="./author.md">Author information</A>
