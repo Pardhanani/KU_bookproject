@@ -16,3 +16,17 @@ applications-centric perspective.  We acknowledge that certain parts of our trea
 may involve a bit more mathematics than some readers might find comfortable.  In such cases, 
 we recommend ignoring the mathematical details, and focusing on the big-picture objectives 
 for which the mathematics is serving as a tool.
+
+<UL>
+  <li><b>
+    <A HREF="https://cs.earlham.edu/~pardhan/courses/wip/kasetbook/rw_bookch_neuralnets.pdf" TARGET="_blank">Neural network models</A>
+  </b>
+  </li>
+  <li><b>
+    <A HREF="https://cs.earlham.edu/~pardhan/courses/wip/kasetbook/rw_bookch_lrintro.pdf" TARGET="_blank">Linear regression methods</A>
+  </b></li>
+  <li>
+    <A HREF="https://cs.earlham.edu/~pardhan/courses/wip/kasetbook/rw_bookch_mlr.pdf" TARGET="_blank">More general regression methods</A>
+
+  </li>
+</UL>
