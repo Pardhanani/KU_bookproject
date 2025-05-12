@@ -17,6 +17,8 @@ may involve a bit more mathematics than some readers might find comfortable.  In
 we recommend ignoring the mathematical details, and focusing on the big-picture objectives 
 for which the mathematics is serving as a tool.
 
+Without further adieu, here are PDF links to the 3 currently available chapters:
+
 <UL>
   <li><b>
     <A HREF="https://cs.earlham.edu/~pardhan/courses/wip/kasetbook/rw_bookch_neuralnets.pdf" TARGET="_blank">Neural network models</A>
