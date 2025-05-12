@@ -25,8 +25,7 @@ for which the mathematics is serving as a tool.
   <li><b>
     <A HREF="https://cs.earlham.edu/~pardhan/courses/wip/kasetbook/rw_bookch_lrintro.pdf" TARGET="_blank">Linear regression methods</A>
   </b></li>
-  <li>
+  <li><b>
     <A HREF="https://cs.earlham.edu/~pardhan/courses/wip/kasetbook/rw_bookch_mlr.pdf" TARGET="_blank">More general regression methods</A>
-
-  </li>
+  </b></li>
 </UL>
