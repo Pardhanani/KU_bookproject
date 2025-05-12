@@ -31,3 +31,6 @@ Without further adieu, here are PDF links to the 3 currently available chapters:
     <A HREF="https://cs.earlham.edu/~pardhan/courses/wip/kasetbook/rw_bookch_mlr.pdf" TARGET="_blank">More general regression methods</A>
   </b></li>
 </UL>
+
+<HR>
+<A HREF="./author.md">Author information</A>
